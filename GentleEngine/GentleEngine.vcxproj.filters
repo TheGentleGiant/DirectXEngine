@@ -13,8 +13,8 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\Window">
-      <UniqueIdentifier>{b9bed047-d8b3-4f83-9ffd-f9658e80fb61}</UniqueIdentifier>
+    <Filter Include="Source Files\DirectXInit">
+      <UniqueIdentifier>{a7a44600-c004-45c0-9149-ea357a10b486}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
